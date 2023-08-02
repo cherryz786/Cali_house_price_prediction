@@ -1,7 +1,7 @@
 # California Housing Prices Prediction
 
-![California housing](![cali hd](https://github.com/ishikawa-yui/Cali_house_price_prediction/assets/71602299/cc3c5691-2aab-4b9c-a0e0-3fb8355590c9)
-)
+![cali hd](https://github.com/ishikawa-yui/Cali_house_price_prediction/assets/71602299/df0fb7c3-c54d-48b4-9307-1ae76d37e764)
+
 
 ## About the Dataset
 This project is based on the "California Housing Prices" dataset sourced from Kaggle, available [here](https://www.kaggle.com/datasets/camnugent/california-housing-prices). The dataset contains information from the 1990 California census, providing details about houses in different California districts, along with some summary statistics based on the census data.
