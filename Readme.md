@@ -1,6 +1,6 @@
 # California Housing Prices Prediction
 
-![California Housing]((https://github.com/ishikawa-yui/Cali_house_price_prediction/assets/71602299/9924b25b-1d66-4dd9-bc80-ddd9034ec0ee)
+![California housing](![cali hd](https://github.com/ishikawa-yui/Cali_house_price_prediction/assets/71602299/cc3c5691-2aab-4b9c-a0e0-3fb8355590c9)
 )
 
 ## About the Dataset
