@@ -1,4 +1,4 @@
-# California Housing Prices Prediction
+# California Housing Prices Prediction (using LinearRegression and RandomForestRegressor)
 
 ![cali hd](https://github.com/ishikawa-yui/Cali_house_price_prediction/assets/71602299/df0fb7c3-c54d-48b4-9307-1ae76d37e764)
 
